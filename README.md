@@ -19,6 +19,9 @@ A ideia é transformar conceitos visuais em fundos criativos com gradientes e an
 - Animações com `@keyframes`
 
 ## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
+```
 Fundo-Magico/
 ├─ index.html
 ├─ src/
@@ -31,6 +34,8 @@ Fundo-Magico/
 │  └─ imagens/
 │     └─ bg.JPG
 └─ README.md
+```
+
 
 ## ▶️ Como Executar o Projeto
 1. Clone o repositório:
